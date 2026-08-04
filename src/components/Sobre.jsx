@@ -10,8 +10,6 @@ function About() {
         Sou estudante do Senac Distrito Criativo, escola técnica em informática.
       </p>
 
-      <h3>Minha Abordagem</h3>
-
       <div className="cards">
 
         <div className="card">
